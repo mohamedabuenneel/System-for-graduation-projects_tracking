@@ -1,0 +1,76 @@
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\bin\Debug\Project.exe.config
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\bin\Debug\Project.exe
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\bin\Debug\Project.pdb
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\bin\Debug\Oracle.DataAccess.dll
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.Form1.resources
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.exe
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.pdb
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.Form2.resources
+D:\Programming\Projects\coding\fcis_projects\SW_Project1\Project\Project\obj\Debug\Project.Form3.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\Project.exe.config
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\Project.exe
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\Project.pdb
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Form1.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Form2.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Form3.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.exe
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.pdb
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.Shared.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\stdole.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Form4.resources
+D:\Studying\level 3 sec sem\SWE\SW_Project1\SW_Project1\Project\Project\obj\Debug\Project.Form5.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\Project.exe.config
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\Project.exe
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\Project.pdb
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\bin\Debug\stdole.dll
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Form1.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Form2.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Form3.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Form4.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Form5.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.exe
+D:\Programming\Fcis\third year\second term\software\graduation projects system\Project\Project\obj\Debug\Project.pdb
